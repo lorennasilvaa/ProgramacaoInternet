@@ -4,11 +4,11 @@
 
 ### Tabela de qualquer coisa
 
-nome | outro nome
-laranja | bergamota 
-limão | limão
-mexerica | tangerina 
-a | a 
+| Coluna 1   | Coluna 2   | Coluna 3   |
+| ---------- | ---------- | ---------- |
+| Linha 1, C1| Linha 1, C2| Linha 1, C3|
+| Linha 2, C1| Linha 2, C2| Linha 2, C3|
+
 
 ## Lista de professores 
 
@@ -16,10 +16,5 @@ a | a
 * Maurício
 * Fabricyo
 
-## Lista de compras 
 
-[] cenoura
-[] café 
-[] beterraba
-[] açúcar
  
